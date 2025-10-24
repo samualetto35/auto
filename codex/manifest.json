@@ -1,0 +1,7 @@
+{
+  "name": "auto",
+  "version": "0.1.0",
+  "description": "Codex dâhilinde otomasyon/araç iskeleti",
+  "entry": "src/index.py",
+  "language": "python"
+}

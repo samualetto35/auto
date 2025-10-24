@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+.npm/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env*
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
